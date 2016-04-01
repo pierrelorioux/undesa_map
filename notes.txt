@@ -1,0 +1,2 @@
+Draw a line from centroid of the country of origin to the centroid of the country of destination
+Size is the number of Migrants. 

@@ -1,0 +1,201 @@
+contry_name;region_name;region_abb;office_location
+Benin;Central and West Africa;WCA;Dakar Senegal
+Burkina Faso;Central and West Africa;WCA;Dakar Senegal
+Cameroun;Central and West Africa;WCA;Dakar Senegal
+Cape Verde;Central and West Africa;WCA;Dakar Senegal
+Central African Republic;Central and West Africa;WCA;Dakar Senegal
+Chad;Central and West Africa;WCA;Dakar Senegal
+Congo;Central and West Africa;WCA;Dakar Senegal
+Côte d'Ivoire;Central and West Africa;WCA;Dakar Senegal
+Equatorial Guinea;Central and West Africa;WCA;Dakar Senegal
+Gabon;Central and West Africa;WCA;Dakar Senegal
+Gambia;Central and West Africa;WCA;Dakar Senegal
+Ghana;Central and West Africa;WCA;Dakar Senegal
+Guinea;Central and West Africa;WCA;Dakar Senegal
+Guinea-Bissau;Central and West Africa;WCA;Dakar Senegal
+Liberia;Central and West Africa;WCA;Dakar Senegal
+Mali;Central and West Africa;WCA;Dakar Senegal
+Mauritania;Central and West Africa;WCA;Dakar Senegal
+Niger;Central and West Africa;WCA;Dakar Senegal
+Nigeria;Central and West Africa;WCA;Dakar Senegal
+Sao Tome and Principey;Central and West Africa;WCA;Dakar Senegal
+Senegal;Central and West Africa;WCA;Dakar Senegal
+Sierra Leone;Central and West Africa;WCA;Dakar Senegal
+Togo;Central and West Africa;WCA;Dakar Senegal
+Angola;Southern Africa;SAf;Pretoria South Africa
+Botswana;Southern Africa;SAf;Pretoria South Africa
+Comoros;Southern Africa;SAf;Pretoria South Africa
+Democratic Republic of the Congo;Southern Africa;SAf;Pretoria South Africa
+Lesotho;Southern Africa;SAf;Pretoria South Africa
+Madagascar;Southern Africa;SAf;Pretoria South Africa
+Malawi;Southern Africa;SAf;Pretoria South Africa
+Mauritius;Southern Africa;SAf;Pretoria South Africa
+Mozambique;Southern Africa;SAf;Pretoria South Africa
+Namibia;Southern Africa;SAf;Pretoria South Africa
+Seychelles;Southern Africa;SAf;Pretoria South Africa
+South Africa;Southern Africa;SAf;Pretoria South Africa
+Swaziland;Southern Africa;SAf;Pretoria South Africa
+Zambia;Southern Africa;SAf;Pretoria South Africa
+Zimbabwe;Southern Africa;SAf;Pretoria South Africa
+Burundi;East Africa;EA;Nairobi Kenya
+Djibouti;East Africa;EA;Nairobi Kenya
+Eritrea;East Africa;EA;Nairobi Kenya
+Ethiopia;East Africa;EA;Nairobi Kenya
+Kenya;East Africa;EA;Nairobi Kenya
+Rwanda;East Africa;EA;Nairobi Kenya
+Somalia;East Africa;EA;Nairobi Kenya
+South Sudan;East Africa;EA;Nairobi Kenya
+Uganda;East Africa;EA;Nairobi Kenya
+United Republic of Tanzania;East Africa;EA;Nairobi Kenya
+Algeria;Middle East and North Africa ;MENA;Cairo Egypt
+Bahrain;Middle East and North Africa ;MENA;Cairo Egypt
+Egypt;Middle East and North Africa ;MENA;Cairo Egypt
+Iraq;Middle East and North Africa ;MENA;Cairo Egypt
+Jordan;Middle East and North Africa ;MENA;Cairo Egypt
+Kuwait;Middle East and North Africa ;MENA;Cairo Egypt
+Lebanon;Middle East and North Africa ;MENA;Cairo Egypt
+Libya;Middle East and North Africa ;MENA;Cairo Egypt
+Morocco;Middle East and North Africa ;MENA;Cairo Egypt
+Sudan;Middle East and North Africa ;MENA;Cairo Egypt
+Oman;Middle East and North Africa ;MENA;Cairo Egypt
+Qatar;Middle East and North Africa ;MENA;Cairo Egypt
+Saudi Arabia;Middle East and North Africa ;MENA;Cairo Egypt
+Syrian Arab Republic;Middle East and North Africa ;MENA;Cairo Egypt
+Tunisia;Middle East and North Africa ;MENA;Cairo Egypt
+United Arab Emirates;Middle East and North Africa ;MENA;Cairo Egypt
+Yemen;Middle East and North Africa ;MENA;Cairo Egypt
+Antigua and Barbuda;Central and North America and the Caribbean;CNAC;San José Costa Rica
+Bahamas;Central and North America and the Caribbean;CNAC;San José Costa Rica
+Belize;Central and North America and the Caribbean;CNAC;San José Costa Rica
+Barbados;Central and North America and the Caribbean;CNAC;San José Costa Rica
+Canada;Central and North America and the Caribbean;CNAC;San José Costa Rica
+Costa Rica;Central and North America and the Caribbean;CNAC;San José Costa Rica
+Cuba;Central and North America and the Caribbean;CNAC;San José Costa Rica
+Dominica;Central and North America and the Caribbean;CNAC;San José Costa Rica
+Dominican Republic;Central and North America and the Caribbean;CNAC;San José Costa Rica
+El Salvador;Central and North America and the Caribbean;CNAC;San José Costa Rica
+Grenada;Central and North America and the Caribbean;CNAC;San José Costa Rica
+Guatemala;Central and North America and the Caribbean;CNAC;San José Costa Rica
+Guyana;Central and North America and the Caribbean;CNAC;San José Costa Rica
+Haiti;Central and North America and the Caribbean;CNAC;San José Costa Rica
+Honduras;Central and North America and the Caribbean;CNAC;San José Costa Rica
+Jamaica;Central and North America and the Caribbean;CNAC;San José Costa Rica
+Mexico;Central and North America and the Caribbean;CNAC;San José Costa Rica
+Montserrat;Central and North America and the Caribbean;CNAC;San José Costa Rica
+Nicaragua;Central and North America and the Caribbean;CNAC;San José Costa Rica
+Panama;Central and North America and the Caribbean;CNAC;San José Costa Rica
+St Kitts and Nevis;Central and North America and the Caribbean;CNAC;San José Costa Rica
+St Lucia;Central and North America and the Caribbean;CNAC;San José Costa Rica
+St Vincent and the;Central and North America and the Caribbean;CNAC;San José Costa Rica
+Grenadines;Central and North America and the Caribbean;CNAC;San José Costa Rica
+Suriname;Central and North America and the Caribbean;CNAC;San José Costa Rica
+Trinidad and;Central and North America and the Caribbean;CNAC;San José Costa Rica
+Tobago;Central and North America and the Caribbean;CNAC;San José Costa Rica
+Turks and Caicos;Central and North America and the Caribbean;CNAC;San José Costa Rica
+USA;Central and North America and the Caribbean;CNAC;San José Costa Rica
+Argentina;South America;SAm;Buenos Aires Argentina
+Bolivia;South America;SAm;Buenos Aires Argentina
+Brazil;South America;SAm;Buenos Aires Argentina
+Chile;South America;SAm;Buenos Aires Argentina
+Colombia;South America;SAm;Buenos Aires Argentina
+Ecuador;South America;SAm;Buenos Aires Argentina
+French Guyana;South America;SAm;Buenos Aires Argentina
+Paraguay;South America;SAm;Buenos Aires Argentina
+Peru;South America;SAm;Buenos Aires Argentina
+Uruguay;South America;SAm;Buenos Aires Argentina
+Venezuela;South America;SAm;Buenos Aires Argentina
+Afghanistan;Asia and the Pacific;ASP;Bangkok Thailand
+Australia;Asia and the Pacific;ASP;Bangkok Thailand
+Bangladesh;Asia and the Pacific;ASP;Bangkok Thailand
+Bhutan;Asia and the Pacific;ASP;Bangkok Thailand
+Brunei Darussalam;Asia and the Pacific;ASP;Bangkok Thailand
+Cambodia;Asia and the Pacific;ASP;Bangkok Thailand
+China, including Hong Kong Special Administrative Region;Asia and the Pacific;ASP;Bangkok Thailand
+Democratic People's Republic of Korea;Asia and the Pacific;ASP;Bangkok Thailand
+Federated States of Micronesia;Asia and the Pacific;ASP;Bangkok Thailand
+Fiji;Asia and the Pacific;ASP;Bangkok Thailand
+India;Asia and the Pacific;ASP;Bangkok Thailand
+Indonesia;Asia and the Pacific;ASP;Bangkok Thailand
+Iran;Asia and the Pacific;ASP;Bangkok Thailand
+Japan;Asia and the Pacific;ASP;Bangkok Thailand
+Kiribati;Asia and the Pacific;ASP;Bangkok Thailand
+Lao People's Democratic Republic;Asia and the Pacific;ASP;Bangkok Thailand
+Malaysia;Asia and the Pacific;ASP;Bangkok Thailand
+Maldives;Asia and the Pacific;ASP;Bangkok Thailand
+Marshall Islands;Asia and the Pacific;ASP;Bangkok Thailand
+Mongolia;Asia and the Pacific;ASP;Bangkok Thailand
+Myanmar;Asia and the Pacific;ASP;Bangkok Thailand
+Nauru;Asia and the Pacific;ASP;Bangkok Thailand
+Nepal;Asia and the Pacific;ASP;Bangkok Thailand
+New Zealand;Asia and the Pacific;ASP;Bangkok Thailand
+Pakistan;Asia and the Pacific;ASP;Bangkok Thailand
+Palau;Asia and the Pacific;ASP;Bangkok Thailand
+Papua New Guinea;Asia and the Pacific;ASP;Bangkok Thailand
+Philippines;Asia and the Pacific;ASP;Bangkok Thailand
+Republic of Korea;Asia and the Pacific;ASP;Bangkok Thailand
+Samoa;Asia and the Pacific;ASP;Bangkok Thailand
+Singapore;Asia and the Pacific;ASP;Bangkok Thailand
+Solomon Islands;Asia and the Pacific;ASP;Bangkok Thailand
+Sri Lanka;Asia and the Pacific;ASP;Bangkok Thailand
+Thailand;Asia and the Pacific;ASP;Bangkok Thailand
+Timor-Leste;Asia and the Pacific;ASP;Bangkok Thailand
+Tonga;Asia and the Pacific;ASP;Bangkok Thailand
+Tuvalu;Asia and the Pacific;ASP;Bangkok Thailand
+Vanuatu;Asia and the Pacific;ASP;Bangkok Thailand
+Viet Nam;Asia and the Pacific;ASP;Bangkok Thailand
+Andorra;European Economic Area;EEA;Brussels Belgium
+Austria;European Economic Area;EEA;Brussels Belgium
+Belgium;European Economic Area;EEA;Brussels Belgium
+Bulgaria;European Economic Area;EEA;Brussels Belgium
+Cyprus;European Economic Area;EEA;Brussels Belgium
+Czech Republic;European Economic Area;EEA;Brussels Belgium
+Denmark;European Economic Area;EEA;Brussels Belgium
+Estonia;European Economic Area;EEA;Brussels Belgium
+Finland;European Economic Area;EEA;Brussels Belgium
+France;European Economic Area;EEA;Brussels Belgium
+Germany;European Economic Area;EEA;Brussels Belgium
+Greece;European Economic Area;EEA;Brussels Belgium
+Holy See;European Economic Area;EEA;Brussels Belgium
+Hungary;European Economic Area;EEA;Brussels Belgium
+Iceland;European Economic Area;EEA;Brussels Belgium
+Ireland;European Economic Area;EEA;Brussels Belgium
+Italy;European Economic Area;EEA;Brussels Belgium
+Latvia;European Economic Area;EEA;Brussels Belgium
+Liechtenstein;European Economic Area;EEA;Brussels Belgium
+Lithuania;European Economic Area;EEA;Brussels Belgium
+Luxembourg;European Economic Area;EEA;Brussels Belgium
+Malta;European Economic Area;EEA;Brussels Belgium
+Monaco;European Economic Area;EEA;Brussels Belgium
+Netherlands;European Economic Area;EEA;Brussels Belgium
+Norway;European Economic Area;EEA;Brussels Belgium
+Poland;European Economic Area;EEA;Brussels Belgium
+Portugal;European Economic Area;EEA;Brussels Belgium
+Romania;European Economic Area;EEA;Brussels Belgium
+San Marino;European Economic Area;EEA;Brussels Belgium
+Slovakia;European Economic Area;EEA;Brussels Belgium
+Slovenia;European Economic Area;EEA;Brussels Belgium
+Spain;European Economic Area;EEA;Brussels Belgium
+Sweden;European Economic Area;EEA;Brussels Belgium
+Switzerland;European Economic Area;EEA;Brussels Belgium
+UK;European Economic Area;EEA;Brussels Belgium
+Albania;South-Eastern Europe;SEE;Vienna Austria
+Armenia;South-Eastern Europe;SEE;Vienna Austria
+Azerbaijan;South-Eastern Europe;SEE;Vienna Austria
+Belarus;South-Eastern Europe;SEE;Vienna Austria
+Bosnia and Herzegovina;South-Eastern Europe;SEE;Vienna Austria
+Croatia;South-Eastern Europe;SEE;Vienna Austria
+Georgia;South-Eastern Europe;SEE;Vienna Austria
+Israel;South-Eastern Europe;SEE;Vienna Austria
+Kazakhstan;South-Eastern Europe;SEE;Vienna Austria
+UNSC resolution 1244-administered Kosovo;South-Eastern Europe;SEE;Vienna Austria
+Kyrgyzstan;South-Eastern Europe;SEE;Vienna Austria
+Montenegro;South-Eastern Europe;SEE;Vienna Austria
+Republic of Moldova;South-Eastern Europe;SEE;Vienna Austria
+Russian Federation;South-Eastern Europe;SEE;Vienna Austria
+Serbia;South-Eastern Europe;SEE;Vienna Austria
+Tajikistan;South-Eastern Europe;SEE;Vienna Austria
+The FYROM;South-Eastern Europe;SEE;Vienna Austria
+Turkey;South-Eastern Europe;SEE;Vienna Austria
+Turkmenistan;South-Eastern Europe;SEE;Vienna Austria
+Ukraine;South-Eastern Europe;SEE;Vienna Austria
+Uzbekistan;South-Eastern Europe;SEE;Vienna Austria
